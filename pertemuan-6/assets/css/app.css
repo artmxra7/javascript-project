@@ -1,0 +1,10 @@
+img{
+  height: 400px;
+  width: 30%;
+}
+
+#wrap{
+  background: black;
+  color: white;
+  font-size: 25px;
+}
